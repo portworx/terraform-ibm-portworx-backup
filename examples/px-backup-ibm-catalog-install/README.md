@@ -35,7 +35,6 @@ We shall use `terraform.tfvars` in these examples.
 cluster_name = "your-iks-cluster-name"
 ibmcloud_api_key = "ibm-cloud-api-key"
 resource_group = "your-resource-group-name"
-storage_class_name = "your-storage-class-name"
 ```
 
 Create the above file with name `terraform.tfvars`
